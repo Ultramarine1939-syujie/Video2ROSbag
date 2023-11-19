@@ -1,5 +1,6 @@
 # Video2ROSbag
-一个mp4转rosbag的python脚本(A python script to convert mp4 to rosbag)
+一个mp4转rosbag的python脚本
+一个图片尺寸转换处理的python脚本
 
 ### Usage: 
 

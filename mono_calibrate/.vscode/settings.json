@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "iostream": "cpp",
+        "iomanip": "cpp",
+        "ostream": "cpp",
+        "*.ipp": "cpp",
+        "bitset": "cpp",
+        "set": "cpp"
+    }
+}
